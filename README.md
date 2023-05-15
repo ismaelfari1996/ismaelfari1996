@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ismaelfari1996
+- 👋 Hi, I’m Ismael Farinango
 - 👀 I’m interested in  work with different tecnology
-- 🌱 I’m currently learning Sprint Boot
+- 🌱 I’m currently learning Sprint Boot 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me : email: abel_fari@hotmail.com, facebook: https://www.facebook.com/afsoftware96, page: https://ismaelfari1996.github.io/ismael-portafolio/
 
